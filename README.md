@@ -29,5 +29,5 @@ Just download [mods](https://minecraft-inside.ru/mods/) and put it mods folder
 You Can also use account and skin for that
 * 1.Register [Ely](https://ely.by) account
 * 2.Copy your UUID
-* 3.Rename it on bath file after --uuid
+* 3.Rename it in bat file after --uuid
 * 4.And last ENJOY
