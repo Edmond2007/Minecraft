@@ -3,16 +3,16 @@ Opening Minecraft 1.12.2 and 1.7.10 OptiFine with batch file
 
 > ### :red_circle: For Use
 
-1.Download any Launcher([Tlauncher](https://tlauncher.org))
-2.Download Minecraft 1.12.2 or 1.7.10 OptiFine
-3.Download [Java](https://www.java.com/download/ie_manual.jsp) and copy to folder with minecraft(C:/Users/User/AppData/Roamineg/.minecraft/Java)
-4.Rename files in folder versions ex. Minecraft 1.12.2.jar to Minecraft_1.12.2.jar
-5.Put bat files in .minecraft folder
-6.Delete Launcher
-7.Run start1.12.2.bat or start1.7.10.bat
-8.Write your username
-9.Write RAM (Recommended 2048)
-10.Enjoy
+* 1.Download any Launcher([Tlauncher](https://tlauncher.org))
+* 2.Download Minecraft 1.12.2 or 1.7.10 OptiFine
+* 3.Download [Java](https://www.java.com/download/ie_manual.jsp) and copy to folder with minecraft(C:/Users/User/AppData/Roamineg/.minecraft/Java)
+* 4.Rename files in folder versions ex. Minecraft 1.12.2.jar to Minecraft_1.12.2.jar
+* 5.Put bat files in .minecraft folder
+* 6.Delete Launcher
+* 7.Run start1.12.2.bat or start1.7.10.bat
+* 8.Write your username
+* 9.Write RAM (Recommended 2048)
+* 10.Enjoy
 
 ## For Mods
 Just download [mods](https://minecraft-inside.ru/mods/) and put it mods folder
