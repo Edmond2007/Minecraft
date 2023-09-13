@@ -23,3 +23,11 @@ Just download [mods](https://minecraft-inside.ru/mods/) and put it mods folder
 |:----------|:----------|
 |1.12.2|[Drive](https://drive.google.com/drive/folders/13RKGumQOOp2TEsvJsQHao6kr_ooZCT2U?usp=sharing)|
 |1.7.10|[Drive](https://drive.google.com/drive/folders/18LXhxb1O4IGwUa7Pd8I1NbJDL5fNn5Gr?usp=sharing)|
+
+##For Account and Skin
+
+You Can also use account and skin for that
+* 1.Register [Ely](https://ely.by) account
+* 2.Copy your UUID
+* 3.Rename it on bath file after --uuid
+* 4.And last ENJOY
