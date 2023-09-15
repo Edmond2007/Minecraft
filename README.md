@@ -20,7 +20,7 @@ Just download [mods](https://minecraft-inside.ru/mods/) and put it mods folder
 ## For Easy Way
 You can download any file without editing just download and start
 
-|  Google |  Drive|
+|  Version | Google Drive|
 |:----------|:----------|
 |1.12.2|[Drive](https://drive.google.com/drive/folders/13RKGumQOOp2TEsvJsQHao6kr_ooZCT2U?usp=sharing)|
 |1.7.10|[Drive](https://drive.google.com/drive/folders/18LXhxb1O4IGwUa7Pd8I1NbJDL5fNn5Gr?usp=sharing)|
