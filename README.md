@@ -18,6 +18,7 @@ Opening Minecraft 1.12.2 and 1.7.10 OptiFine with batch file
 Just download [mods](https://minecraft-inside.ru/mods/) and put it mods folder
 
 ## For Easy Way
+You can download any file without editing just download and start
 
 |  Google |  Drive|
 |:----------|:----------|
