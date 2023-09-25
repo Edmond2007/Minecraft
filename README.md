@@ -34,4 +34,4 @@ You Can also use account and skin for that
 * 4.And last ENJOY
 
 
-FOR LINUX AND MACOS COMMING SOON
+## FOR LINUX AND MACOS COMMING SOON
