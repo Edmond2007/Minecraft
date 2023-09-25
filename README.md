@@ -32,3 +32,6 @@ You Can also use account and skin for that
 * 2.Copy your UUID
 * 3.Rename it in bat file after --uuid
 * 4.And last ENJOY
+
+
+FOR LINUX AND MACOS COMMING SOON
