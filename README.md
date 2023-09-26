@@ -24,6 +24,7 @@ You can download any file without editing just download and start
 |:----------|:----------|
 |1.12.2|[Drive](https://drive.google.com/drive/folders/13RKGumQOOp2TEsvJsQHao6kr_ooZCT2U?usp=sharing)|
 |1.7.10|[Drive](https://drive.google.com/drive/folders/18LXhxb1O4IGwUa7Pd8I1NbJDL5fNn5Gr?usp=sharing)|
+|linuxmine|[Drive](https://drive.google.com/drive/folders/1dhpPam9V4agcGVirLtQ8IC-phX3VBcJQ?usp=sharing)|
 
 ## For Account and Skin
 
@@ -34,4 +35,23 @@ You Can also use account and skin for that
 * 4.And last ENJOY
 
 
-## FOR LINUX AND MACOS COMMING SOON
+## FOR LINUX
+
+* Download [linuxmine](https://drive.google.com/drive/folders/1dhpPam9V4agcGVirLtQ8IC-phX3VBcJQ?usp=sharing) from drive and unzip (Recommended /home/username/)
+* Copy path to folder (ex. /home/username/linuxmine/)
+* Then open terminal and write
+
+```
+$ cd linuxmine
+$ ./1.12.2.sh
+```
+or
+
+```
+$ ./1.7.10.sh
+```
+* Paste copied directory
+* Enter RAM (Recommended 2048)
+* Enter Username
+* Enjoy
+  
