@@ -22,8 +22,8 @@ You can download any file without editing just download and start
 
 |  Version | Google Drive|
 |:----------|:----------|
-|1.12.2|[Drive](https://drive.google.com/drive/folders/13RKGumQOOp2TEsvJsQHao6kr_ooZCT2U?usp=sharing)|
-|1.7.10|[Drive](https://drive.google.com/drive/folders/18LXhxb1O4IGwUa7Pd8I1NbJDL5fNn5Gr?usp=sharing)|
+|1.12.2|[Drive]()|
+|1.7.10|[Drive]()|
 |linuxmine|[Drive](https://drive.google.com/drive/folders/1dhpPam9V4agcGVirLtQ8IC-phX3VBcJQ?usp=sharing)|
 
 ## For Account and Skin
