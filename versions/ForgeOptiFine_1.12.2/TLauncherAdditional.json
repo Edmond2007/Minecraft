@@ -1,0 +1,21 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "modsLibraries": [
+    {
+      "name": "optifine:OptiFine:OptiFine-1.12.2_HD_U_G5",
+      "artifact": {
+        "sha1": "db971767e460269f2317bb5df57d8f522be65e2c",
+        "size": 2457427,
+        "path": "optifine/OptiFine/OptiFine-1.12.2_HD_U_G5/OptiFine-1.12.2_HD_U_G5.jar",
+        "url": "http://res.tlauncher.org/unb/mods/9999999/11001818/OptiFine-1.12.2_HD_U_G5.jar"
+      }
+    }
+  ],
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true,
+  "updatedTime": "2021-12-13T12:15:32+04:00"
+}
