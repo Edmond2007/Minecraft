@@ -37,8 +37,7 @@ You Can also use account and skin for that
 
 ## FOR LINUX
 
-* Download [linuxmine](https://drive.google.com/drive/folders/1dhpPam9V4agcGVirLtQ8IC-phX3VBcJQ?usp=sharing) from drive and unzip (Recommended /home/username/)
-* Copy path to folder (ex. /home/username/linuxmine/)
+* Download [linuxmine](https://drive.google.com/drive/folders/1dhpPam9V4agcGVirLtQ8IC-phX3VBcJQ?usp=sharing) from drive, or clone repository and unzip (Recommended /home/username/)
 * Then open terminal and write
 
 ```
@@ -50,8 +49,6 @@ or
 ```
 $ ./1.7.10.sh
 ```
-* Paste copied directory
 * Enter RAM (Recommended 2048)
 * Enter Username
 * Enjoy
-  
