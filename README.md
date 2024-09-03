@@ -5,7 +5,7 @@ Opening Minecraft 1.12.2 and 1.7.10 OptiFine with batch file
 
 * 1.Download any Launcher([Tlauncher](https://tlauncher.org))
 * 2.Download Minecraft 1.12.2 or 1.7.10 OptiFine
-* 3.Download [Java](https://www.java.com/download/ie_manual.jsp) and copy to folder with minecraft(C:/Users/User/AppData/Roamineg/.minecraft/Java)
+* 3.Download [Java](https://www.java.com/download/ie_manual.jsp) and copy to folder with minecraft(C:/Users/User/AppData/Roamineg/.minecraft/Java) or rename runtime folder
 * 4.Rename files in folder versions ex. Minecraft 1.12.2.jar to Minecraft_1.12.2.jar
 * 5.Put bat files in .minecraft folder
 * 6.Delete Launcher
